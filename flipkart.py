@@ -46,3 +46,5 @@ for container in containers:
     f.write(product_name.replace(",", "|")+","+final_price+","+final_rating+"\n")  
   
 f.close()
+
+// modified
